@@ -1,7 +1,6 @@
-CrappyBird
-==========
+# Flappy Tomato
 
-Clone of Flappy Bird game in JavaScript and Canvas 2D
+Clone of Flappy Bird game in JavaScript and Canvas 2D, except with a tomato.
 
 
 The MIT License
